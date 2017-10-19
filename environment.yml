@@ -1,4 +1,4 @@
-name: statmek
+name: cosan
 channels:
     - defaults
     - conda-forge
